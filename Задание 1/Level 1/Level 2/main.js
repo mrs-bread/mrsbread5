@@ -1,9 +1,9 @@
 const prices = {
-    healthyMind: 1000000,
-    extraTime: 500,
-    goodHealth: 1.5,
-    friends: 149,
-    skillImprovement: 4300
+    mandarin: 100,
+    cherry: 500,
+    grusha: 30,
+    pineapple: 350,
+    kiwi: 200
 };
 
 document.addEventListener('DOMContentLoaded', function() {
